@@ -2,4 +2,5 @@
 highlighter: pygments
 url: http://example.com
 lsi: false
+site.data.theme.name: Lu Yahui
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
